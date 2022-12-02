@@ -13,7 +13,7 @@ namespace chapter10_과제
 {
     public partial class btnCatchException : Form
     {
-        public btnCatchException()
+        public btnCatchException() //생성자
         {
             InitializeComponent();
         }
