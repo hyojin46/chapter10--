@@ -22,7 +22,7 @@ namespace chapter10_과제
             MessageBox.Show("비밀번호를 입력하세요"); //메시지박스 띄우기
         }
 
-        private void textBox2_Enter(object sender, EventArgs e)
+        private void textBox2_Enter(object sender, EventArgs e) //두번째 텍스트 박스를 누르는 경우
         {
             MessageBox.Show("두번째 TextBox 입력");
         }
