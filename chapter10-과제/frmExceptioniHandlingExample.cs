@@ -28,7 +28,7 @@ namespace chapter10_과제
             {
                 Debug.WriteLine("Catch");
             }
-            finally
+            finally //try-코드와 catch코드가 모두 실행을 마치고 무조건 실행
             {
                 Debug.WriteLine("Finally");
             }
