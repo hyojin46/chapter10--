@@ -14,7 +14,7 @@ namespace chapter10_과제
     {
         public _15() //생성자
         {
-            InitializeComponent();
+            InitializeComponent(); //초기화작업
         }
     }
 }
