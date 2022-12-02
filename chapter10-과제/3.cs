@@ -14,7 +14,7 @@ namespace chapter10_과제
     {
         public _3() //생성자
         {
-            InitializeComponent();
+            InitializeComponent(); //초기화
         }
 
         private void drawBorderDToolStripMenuItem_Click(object sender, EventArgs e)
