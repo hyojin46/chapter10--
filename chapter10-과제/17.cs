@@ -14,7 +14,7 @@ namespace chapter10_과제
     {
         public _17() //생성자
         {
-            InitializeComponent();
+            InitializeComponent(); //초기화
         }
 
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
