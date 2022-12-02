@@ -14,7 +14,7 @@ namespace chapter10_과제
     {
         public _8() //생성자
         {
-            InitializeComponent();
+            InitializeComponent(); //초기화
         }
 
         private void button1_Click(object sender, EventArgs e)
