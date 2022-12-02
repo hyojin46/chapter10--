@@ -14,7 +14,7 @@ namespace chapter10_과제
     {
         public _4() //생성자
         {
-            InitializeComponent();
+            InitializeComponent(); //초기화
         }
         private int num;
         private void _4_Load(object sender, EventArgs e)
