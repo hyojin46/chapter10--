@@ -14,7 +14,7 @@ namespace chapter10_과제
     {
         public _18() //생성자
         {
-            InitializeComponent();
+            InitializeComponent(); //초기화
         }
 
         private Graphics m_objGraphics; //Graphics 객체 참조 변수 선언
