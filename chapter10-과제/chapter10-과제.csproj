@@ -76,11 +76,11 @@
     <Compile Include="13.Designer.cs">
       <DependentUpon>13.cs</DependentUpon>
     </Compile>
-    <Compile Include="15.cs">
+    <Compile Include="frmDebuggingExample.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="15.Designer.cs">
-      <DependentUpon>15.cs</DependentUpon>
+    <Compile Include="frmDebuggingExample.Designer.cs">
+      <DependentUpon>frmDebuggingExample.cs</DependentUpon>
     </Compile>
     <Compile Include="fclsChild1.cs">
       <SubType>Form</SubType>
@@ -165,8 +165,8 @@
     <EmbeddedResource Include="13.resx">
       <DependentUpon>13.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="15.resx">
-      <DependentUpon>15.cs</DependentUpon>
+    <EmbeddedResource Include="frmDebuggingExample.resx">
+      <DependentUpon>frmDebuggingExample.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fclsChild1.resx">
       <DependentUpon>fclsChild1.cs</DependentUpon>
