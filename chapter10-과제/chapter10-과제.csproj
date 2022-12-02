@@ -76,6 +76,12 @@
     <Compile Include="13.Designer.cs">
       <DependentUpon>13.cs</DependentUpon>
     </Compile>
+    <Compile Include="17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="17.Designer.cs">
+      <DependentUpon>17.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmExceptioniHandlingExample.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -170,6 +176,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="13.resx">
       <DependentUpon>13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="17.resx">
+      <DependentUpon>17.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmExceptioniHandlingExample.resx">
       <DependentUpon>frmExceptioniHandlingExample.cs</DependentUpon>
