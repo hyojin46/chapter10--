@@ -12,7 +12,7 @@ namespace chapter10_과제
 {
     public partial class _7 : Form
     {
-        public _7()
+        public _7() //생성자
         {
             InitializeComponent();
         }
