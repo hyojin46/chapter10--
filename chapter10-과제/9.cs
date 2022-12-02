@@ -14,7 +14,7 @@ namespace chapter10_과제
     {
         public _9() //생성자
         {
-            InitializeComponent();
+            InitializeComponent(); //초기화
         }
 
         private void textBox1_Enter(object sender, EventArgs e)
