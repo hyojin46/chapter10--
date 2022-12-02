@@ -20,9 +20,9 @@ namespace chapter10_과제
 
         private void button1_Click(object sender, EventArgs e) //버튼 이벤트 처리기
         {
-            try
+            try 
             {
-                Debug.WriteLine("Try");
+                Debug.WriteLine("Try"); //예외가 발생하지 않음
             }
             catch (Exception ex) //예외발생시 실행
             {
