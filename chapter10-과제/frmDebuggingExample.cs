@@ -19,7 +19,8 @@ namespace chapter10_과제
 
         private void btnPerformDivision_Click(object sender, EventArgs e)
         {
-            //이 프로시저는 txtInput텍스트 박스에 입력한 값으로 
+            //이 프로시저는 txtInput텍스트 박스에 입력한 값으로
+            //100으로 나누게 된다
         }
     }
 }
