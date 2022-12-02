@@ -17,7 +17,7 @@ namespace chapter10_과제
             InitializeComponent(); //초기화
         }
 
-        private void textBox1_Enter(object sender, EventArgs e)
+        private void textBox1_Enter(object sender, EventArgs e) //실행동시와 입력포커스를 가짐 -> 바로 실행
         {
             MessageBox.Show("비밀번호를 입력하세요");
         }
