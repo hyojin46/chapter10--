@@ -16,7 +16,7 @@ namespace chapter10_과제
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new _17());
+            Application.Run(new _18());
         }
     }
 }
