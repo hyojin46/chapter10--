@@ -14,7 +14,7 @@ namespace chapter10_과제
     {
         public _7() //생성자
         {
-            InitializeComponent();
+            InitializeComponent(); //초기화
         }
 
         protected const int xNum = 5; // 가로 박스 수
