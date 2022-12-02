@@ -14,7 +14,7 @@ namespace chapter10_과제
     {
         public _5() //생성자
         {
-            InitializeComponent();
+            InitializeComponent(); //초기화
         }
 
         private void _5_MouseEnter(object sender, EventArgs e)
