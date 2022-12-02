@@ -14,7 +14,7 @@ namespace chapter10_과제
     {
         public _6() //생성자
         {
-            InitializeComponent();
+            InitializeComponent(); //초기화
         }
         private void UpdateEventLabels(string msg, int x, int y, MouseEventArgs e) // MouseEventArgs: 마우스 위치와 상태정보 있음
         {
