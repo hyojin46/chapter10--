@@ -14,7 +14,7 @@ namespace chapter10_과제
     {
         public _12() //생성자
         {
-            InitializeComponent();
+            InitializeComponent(); //초기화
         }
 
         private void button1_Click(object sender, EventArgs e) // 텍스트박스의 내용을 리스트박스에 저장
