@@ -24,7 +24,7 @@ namespace chapter10_과제
             {
                 Debug.WriteLine("Try");
             }
-            catch (Exception ex)
+            catch (Exception ex) //예외발생시 실행
             {
                 Debug.WriteLine("Catch");
             }
