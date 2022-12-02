@@ -22,6 +22,9 @@ namespace chapter10_과제
             //이 프로시저는 txtInput텍스트 박스에 입력한 값으로
             //100으로 나누게 된다
             long IngAnswer;
+            if (txtInput.Text.Length == 0) return;
+            IngAnswer = 100 /Convert.ToInt64(txtInput.Text);
+            MessageBox.Show("100/" + txtInput.Text + " is " + IngAnswer);
         }
     }
 }
